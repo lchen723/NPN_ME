@@ -8,3 +8,5 @@ This repository contains
 4. Nonpara_graph_simulation_Hub.R: The R script for the scenario "hub" in simulation studies
 
 The R version is > 4.0.4. With all R packages in R scripts installed, all code can be implemented in R software. The code in three R scripts can reproduce numerical results in simulation studies and real data analysis.
+
+The zenodo version is given here: https://zenodo.org/records/19262836
